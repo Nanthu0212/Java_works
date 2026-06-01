@@ -1,0 +1,37 @@
+Day 1 (1/6/2026):
+Topic covered - 
+	For loop, For loop syntax, nested For loop, example task on For & nested For loop.
+Work done with code :
+1: creating the tables from 1 to 5th table till the 10th multiplayer.
+Code :
+
+public class Multpulcation {
+	public static void main(String[] args){
+		for (int i=1; i <=5;i++){
+			for (int j=1; j <=10;j++){
+				System.out.print(i + " times " + j + " is :" + i*j + "\n");
+			}
+			System.out.println();
+		}
+	}
+}
+
+
+2: Cteating an nested For loop to create an 5X5 matrix where the numbers should continue in all the places of arry from 1 to 25.
+Code :
+
+public class Multpulcation {
+	public static void main(String[] args){
+	    int sum=0;
+		for (int i=1; i <=5;i++){
+			for (int j=1; j <=5;j++){
+			    sum++;
+			    System.out.print( sum + "\t");
+			}
+		System.out.println();
+		}
+	}
+}
+
+Valuation :
+Both the code has been complied and tested in online java compiler. 
