@@ -1,0 +1,45 @@
+Day 2 (2/6/26)
+Topic covered:
+Java, Introduction to java, Definition about Java, history of Java, use of Compiler an interpreter, JDK, JRE, JVM, Java magic, bycode, JIT, syntax, commands, what is data types, primitive and non primitive data types, variables, type casting, operators, input and output.
+
+Unit-1:
+Java is an programming language used to communicate with the devices to do certain task effectivity.
+Java is an high level language which is human understandable and fast and effective in processing.
+Java uses Object Oriented programming.
+Java has application like:-
+	wide usage
+	platform independency
+	stability
+	Security 
+	community 
+	work applications 
+Compiler in Java compiles the Java file into Javac file that is Java class.
+This class can understand by computers not humans.
+Compiler check the syntax error in the code and compiles after clearing every error and creates a bycode or Javac file.
+Interpreter is an part of JVM that helps the Java to execute the code.
+JVM is Virtual Machine Engine that is used to Create Execute an Java file in any OS.
+Java runtime environment helps the Java by providing needed data and resources to the process.
+JDK is the whole package that contains JRE and JVM.
+It is an environment or platform which encloses all tools.
+Integrated development environment is the tool that we can access this JDK file from.
+Java magic code is a security code that ensures the is original and safe.
+
+Unit-2:
+Data types Defines or Explains the structural model of an data.
+Java has primitive and non primitive data types.
+Primitive data types have fixed size like:
+	Integer 
+	float 
+	double 
+	character 
+	boolean etc...
+Non Primitive does not have a fixed size like:
+	string 
+	array 
+	class 
+	object 
+	Interface 
+Variables stores data. 
+Variables can like a storage container to store data.
+Type Casting It's a process of conversion of one data type to another.
+Widening is the automatic way of converting smaller data type to larger and narrowing is the process off manually converting large data type into smaller.
