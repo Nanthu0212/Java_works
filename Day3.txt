@@ -1,0 +1,11 @@
+Day 3 (4/06/2026)
+Topics completed :
+	logical thinking ability, practice of logical thinking with patten printing tasks.
+Tasks given:
+
+Write a Java program to print an inverted pyramid star pattern.
+Write a Java program to print a square pattern of stars.
+Write a Java program to print a number pyramid (1 to n).
+Write a Java program to print a repeated number triangle (same number per row).
+Write a Java program to print a reverse number triangle.
+Write a Java program to print a diamond star pattern.
