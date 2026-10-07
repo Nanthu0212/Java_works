@@ -1,6 +1,16 @@
-Java_works
+# ☕ Java Works
 
-Description:
-☕ My daily Java lab: OOP, collections, exceptions, JDBC & mini programs, built one day at a time during Full Stack training 🚀
+My daily Java practice log, built while learning Full Stack Development.
 
-Topics: java oop jdbc data-structures learning-in-public core-java
+## 📚 What's inside
+- OOP: inheritance, abstraction, polymorphism
+- Exception handling, packages
+- Collections: List, Vector, LinkedList, Queue
+- Loops, arrays and practice programs
+
+## 🛠️ Run it
+javac FileName.java
+java FileName
+
+## 🎯 Goal
+Write a little code every day and keep getting better. 💪
